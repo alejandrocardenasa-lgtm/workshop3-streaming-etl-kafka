@@ -1041,11 +1041,6 @@ dashboards/screenshots/
 ```
 
 * `dashboard_main.png`
-* `dashboard_kpis.png`
-* `dashboard_scatter.png`
-* `dashboard_trends.png`
-
-In the final repository, these screenshots support the dashboard deliverable.
 
 ---
 
