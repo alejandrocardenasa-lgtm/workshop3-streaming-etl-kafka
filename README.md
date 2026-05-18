@@ -1040,8 +1040,6 @@ Dashboard screenshots should be stored in:
 dashboards/screenshots/
 ```
 
-Suggested screenshots:
-
 * `dashboard_main.png`
 * `dashboard_kpis.png`
 * `dashboard_scatter.png`
@@ -1084,16 +1082,6 @@ The Docker Compose file used the ARM platform configuration:
 ```yaml
 platform: linux/arm64
 ```
-
----
-
-### 24.2 PostgreSQL Port Conflict
-
-Port `5432` was already being used by another PostgreSQL container.
-
-Solution:
-
-This project exposed PostgreSQL using port `5433` externally.
 
 ---
 
