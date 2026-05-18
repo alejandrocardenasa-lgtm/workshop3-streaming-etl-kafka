@@ -2,7 +2,7 @@
 
 ## Happiness Prediction Streaming ETL Pipeline
 
-**Author:** Alejandro Cardenas
+**Author:** Gonoalejo
 **Course:** ETL — Data Engineering and Artificial Intelligence
 **Workshop:** Workshop 3 — Streaming ETL with Apache Kafka and Machine Learning
 
